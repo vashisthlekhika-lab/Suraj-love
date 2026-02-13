@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>For Suraj ❤️</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+    overflow: hidden;
+}
+
+.container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+h1 {
+    font-size: 40px;
+    opacity: 0;
+    transition: 2s;
+}
+
+.question {
+    font-size: 32px;
+    margin-top: 20px;
+    opacity: 0;
+    transition: 3s;
+}
+
+img {
+    width: 220px;
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 0 0 30px rgba(255,255,255,0.4);
+    animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+}
+</style>
+</head>
+
+<body><!DOCTYPE html>
+<html>
+<head>
+<title>For Suraj ❤️</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+    overflow: hidden;
+}
+
+.container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+h1 {
+    font-size: 40px;
+    opacity: 0;
+    transition: 2s;
+}
+
+.question {
+    font-size: 32px;
+    margin-top: 20px;
+    opacity: 0;
+    transition: 3s;
+}
+
+img {
+    width: 220px;
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 0 0 30px rgba(255,255,255,0.4);
+    animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1 id="loveText">I love you Suraj ❤️</h1>
+
+    <div>
+        <img src="photo1.jpg">
+        <img src="photo2.jpg">
+    </div>
+
+    <div class="question" id="question">
+        Will you stay with me forever? 💍
+    </div>
+</div>
+
+<audio autoplay loop>
+    <source src="music.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+window.onload = function() {
+
+    // Show "I love you Suraj"
+    setTimeout(() => {
+        document.getElementById("loveText").style.opacity = "1";
+    }, 2000);
+
+    // Show question at 18 seconds (when main lyric starts)
+    setTimeout(() => {
+        document.getElementById("question").style.opacity = "1";
+    }, 18000);
+
+};
+</script>
+
+</body>
+</html>
+
+<div class="container">
+    <h1 id="loveText">I love you Suraj ❤️</h1>
+
+    <div>
+        <img src="photo1.jpg">
+        <img src="photo2.jpg">
+    </div>
+
+    <div class="question" id="question">
+        Will you stay with me forever? 💍
+    </div>
+</div>
+
+<audio autoplay loop>
+    <source src="music.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+window.onload = function() {
+
+    // Show "I love you Suraj"
+    setTimeout(() => {
+        document.getElementById("loveText").style.opacity = "1";
+    }, 2000);
+
+    // Show question at 18 seconds (when main lyric starts)
+    setTimeout(() => {
+        document.getElementById("question").style.opacity = "1";
+    }, 18000);
+
+};
+</script>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<title>For Suraj ❤️</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+    overflow: hidden;
+}
+
+.container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+h1 {
+    font-size: 40px;
+    opacity: 0;
+    transition: 2s;
+}
+
+.question {
+    font-size: 32px;
+    margin-top: 20px;
+    opacity: 0;
+    transition: 3s;
+}
+
+img {
+    width: 220px;
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 0 0 30px rgba(255,255,255,0.4);
+    animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1 id="loveText">I love you Suraj ❤️</h1>
+
+    <div>
+        <img src="photo1.jpg">
+        <img src="photo2.jpg">
+    </div>
+
+    <div class="question" id="question">
+        Will you stay with me forever? 💍
+    </div>
+</div>
+
+<audio autoplay loop>
+    <source src="music.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+window.onload = function() {
+
+    // Show "I love you Suraj"
+    setTimeout(() => {
+        document.getElementById("loveText").style.opacity = "1";
+    }, 2000);
+
+    // Show question at 18 seconds (when main lyric starts)
+    setTimeout(() => {
+        document.getElementById("question").style.opacity = "1";
+    }, 18000);
+
+};
+</script>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<title>For Suraj ❤️</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+    overflow: hidden;
+}
+
+.container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+h1 {
+    font-size: 40px;
+    opacity: 0;
+    transition: 2s;
+}
+
+.question {
+    font-size: 32px;
+    margin-top: 20px;
+    opacity: 0;
+    transition: 3s;
+}
+
+img {
+    width: 220px;
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 0 0 30px rgba(255,255,255,0.4);
+    animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1 id="loveText">I love you Suraj ❤️</h1>
+
+    <div>
+        <img src="photo1.jpg">
+        <img src="photo2.jpg">
+    </div>
+
+    <div class="question" id="question">
+        Will you stay with me forever? 💍
+    </div>
+</div>
+
+<audio autoplay loop>
+    <source src="music.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+window.onload = function() {
+
+    // Show "I love you Suraj"
+    setTimeout(() => {
+        document.getElementById("loveText").style.opacity = "1";
+    }, 2000);
+
+    // Show question at 18 seconds (when main lyric starts)
+    setTimeout(() => {
+        document.getElementById("question").style.opacity = "1";
+    }, 18000);
+
+};
+</script>
+
+</body>
+</html>
